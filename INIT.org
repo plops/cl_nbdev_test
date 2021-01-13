@@ -24,3 +24,10 @@ nbdev_test_nbs
 - documentation is here: https://plops.github.io/cl_nbdev_test/card.html
 
 - export, hide, *nothing*, exports
+- in __init__.py:
+  https://youtu.be/RWrqn9eUXxw?t=1597
+#+begin_example
+from .core import *
+# in index
+# from cl_nbdev_test import *
+#+end_example
