@@ -15,6 +15,6 @@ nbdev_install_git_hooks
 
 nbdev_build_lib
 nbdev_build_docs
-
+nbdev_test_nbs
 #+end_example
 
