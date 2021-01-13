@@ -22,3 +22,5 @@ nbdev_test_nbs
 #+end_example
 
 - documentation is here: https://plops.github.io/cl_nbdev_test/card.html
+
+- export, hide, *nothing*, exports
