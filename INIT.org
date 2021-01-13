@@ -1,6 +1,13 @@
 - https://nbdev.fast.ai/example.html
 #+begin_example
-python3 -m pip install --user nbdev
+#python3 -m pip install --user nbdev
+
+git clone https://github.com/fastai/nbdev
+pip3 install -e nbdev
+# replace fedora python3-defusedxml with pip
+sudo dnf remove python3-defusedxml
+pip3 install --user defusedxml
+
 nbdev_install_git_hooks
 
 # in case of conflict:
