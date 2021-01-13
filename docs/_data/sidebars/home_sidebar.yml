@@ -10,8 +10,8 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: core.html
+      title: Card
+      url: card.html
     output: web
     title: cl_nbdev_test
   output: web
