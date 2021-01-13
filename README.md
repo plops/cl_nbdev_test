@@ -24,7 +24,7 @@ Fill me in please! Don't forget code examples:
 
 
 ```python
-cl_nbdev_test.card.Card(suit=2,rank=11)
+#Card(suit=2,rank=11)
 ```
 
 
@@ -32,9 +32,25 @@ cl_nbdev_test.card.Card(suit=2,rank=11)
 
     NameError                                 Traceback (most recent call last)
 
-    <ipython-input-11-5b42af31a995> in <module>
-    ----> 1 cl_nbdev_test.card.Card(suit=2,rank=11)
+    <ipython-input-16-0cade0e13fb1> in <module>
+    ----> 1 Card(suit=2,rank=11)
     
 
-    NameError: name 'cl_nbdev_test' is not defined
+    NameError: name 'Card' is not defined
+
+
+```python
+#cl_nbdev_test.card.Card
+```
+
+
+    ---------------------------------------------------------------------------
+
+    AttributeError                            Traceback (most recent call last)
+
+    <ipython-input-20-eba374539957> in <module>
+    ----> 1 cl_nbdev_test.card.Card
+    
+
+    AttributeError: module 'cl_nbdev_test.card' has no attribute 'Card'
 

@@ -1,4 +1,7 @@
 - https://nbdev.fast.ai/example.html
+- https://www.youtube.com/watch?v=RWrqn9eUXxw 
+  - The NEXT level Jupyter Notebook: nbdev | Tutorial by Jeremy Howard
+  - 2020-01-14
 #+begin_example
 #python3 -m pip install --user nbdev
 
@@ -18,3 +21,4 @@ nbdev_build_docs
 nbdev_test_nbs
 #+end_example
 
+- documentation is here: https://plops.github.io/cl_nbdev_test/card.html
