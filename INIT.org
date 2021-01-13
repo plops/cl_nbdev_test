@@ -1,0 +1,12 @@
+- https://nbdev.fast.ai/example.html
+#+begin_example
+python3 -m pip install --user nbdev
+nbdev_install_git_hooks
+
+# in case of conflict:
+# nbdev_fix_merge file.ipynb
+
+nbdev_build_lib
+nbdev_build_docs
+
+#+end_example
