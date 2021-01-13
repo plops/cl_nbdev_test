@@ -36,9 +36,13 @@ from .core import *
 - nbs/00_export.ipynb describes structure of notebook
   https://youtu.be/RWrqn9eUXxw?t=3033
   - https://github.com/fastai/nbdev/blob/master/nbs/00_export.ipynb
+- nbformat description
+https://nbformat.readthedocs.io/en/latest/format_description.html
+
 - convert python back into notebook
 #+begin_example
 ctags -R
 nbdev_update_lib (not reliable for major refactorings, no new cell can be added)
 nbdev_diff_nbs shows the difference
 #+end_example
+
