@@ -32,3 +32,4 @@ from .core import *
 # from cl_nbdev_test import *
 #+end_example
 - start test filename with underscore to ignore results
+- how to run documentation locally https://youtu.be/RWrqn9eUXxw?t=2400
