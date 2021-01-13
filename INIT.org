@@ -35,6 +35,7 @@ from .core import *
 - how to run documentation locally https://youtu.be/RWrqn9eUXxw?t=2400
 - nbs/00_export.ipynb describes structure of notebook
   https://youtu.be/RWrqn9eUXxw?t=3033
+  - https://github.com/fastai/nbdev/blob/master/nbs/00_export.ipynb
 - convert python back into notebook
 #+begin_example
 ctags -R
