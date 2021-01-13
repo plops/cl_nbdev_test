@@ -31,3 +31,4 @@ from .core import *
 # in index
 # from cl_nbdev_test import *
 #+end_example
+- start test filename with underscore to ignore results
