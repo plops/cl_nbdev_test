@@ -33,3 +33,5 @@ from .core import *
 #+end_example
 - start test filename with underscore to ignore results
 - how to run documentation locally https://youtu.be/RWrqn9eUXxw?t=2400
+- nbs/00_export.ipynb describes structure of notebook
+  https://youtu.be/RWrqn9eUXxw?t=3033
