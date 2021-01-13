@@ -35,3 +35,9 @@ from .core import *
 - how to run documentation locally https://youtu.be/RWrqn9eUXxw?t=2400
 - nbs/00_export.ipynb describes structure of notebook
   https://youtu.be/RWrqn9eUXxw?t=3033
+- convert python back into notebook
+#+begin_example
+ctags -R
+nbdev_update_lib (not reliable for major refactorings, no new cell can be added)
+nbdev_diff_nbs shows the difference
+#+end_example
